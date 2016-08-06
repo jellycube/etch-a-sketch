@@ -2,6 +2,10 @@ div:hover{
   background-color:black;
 }
 
+section{
+  width: 960px;
+}
+
 .row {
   border: 1px solid grey;
   height: 10px;
