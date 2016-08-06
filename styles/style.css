@@ -1,0 +1,10 @@
+.row {
+  border: 1px solid grey;
+  height: 10px;
+  width: 10px;
+  display: inline-block;
+}
+
+.space {
+  margin-top: -8px;
+}
